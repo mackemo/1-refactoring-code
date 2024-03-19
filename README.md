@@ -1,4 +1,4 @@
-# challenge-1
+# 1-refactoring-code
 
 ## Description
 
